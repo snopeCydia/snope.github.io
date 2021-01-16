@@ -1,6 +1,6 @@
 <package>
 	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
+	<name>Test Package</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
